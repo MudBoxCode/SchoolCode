@@ -1,0 +1,14 @@
+C:\Users\mehdi\Desktop\SchoolCode\Main\bin\Debug\net7.0\Main.exe
+C:\Users\mehdi\Desktop\SchoolCode\Main\bin\Debug\net7.0\Main.deps.json
+C:\Users\mehdi\Desktop\SchoolCode\Main\bin\Debug\net7.0\Main.runtimeconfig.json
+C:\Users\mehdi\Desktop\SchoolCode\Main\bin\Debug\net7.0\Main.dll
+C:\Users\mehdi\Desktop\SchoolCode\Main\bin\Debug\net7.0\Main.pdb
+C:\Users\mehdi\Desktop\SchoolCode\Main\obj\Debug\net7.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehdi\Desktop\SchoolCode\Main\obj\Debug\net7.0\Main.AssemblyInfoInputs.cache
+C:\Users\mehdi\Desktop\SchoolCode\Main\obj\Debug\net7.0\Main.AssemblyInfo.cs
+C:\Users\mehdi\Desktop\SchoolCode\Main\obj\Debug\net7.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\Desktop\SchoolCode\Main\obj\Debug\net7.0\Main.dll
+C:\Users\mehdi\Desktop\SchoolCode\Main\obj\Debug\net7.0\refint\Main.dll
+C:\Users\mehdi\Desktop\SchoolCode\Main\obj\Debug\net7.0\Main.pdb
+C:\Users\mehdi\Desktop\SchoolCode\Main\obj\Debug\net7.0\Main.genruntimeconfig.cache
+C:\Users\mehdi\Desktop\SchoolCode\Main\obj\Debug\net7.0\ref\Main.dll
